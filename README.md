@@ -16,8 +16,6 @@ Aprender a usar repositorios, commits, ramas y Pull Request.
 1. Abrir la carpeta semana-01
 2. Revisar el archivo index.html
 
-# Semana 01
-
 ```html
 <!DOCTYPE html>
 <html>
